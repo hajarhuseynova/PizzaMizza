@@ -1,0 +1,12 @@
+C:\Users\99455\Desktop\PizzaTask\PizzaMizza.Core\bin\Debug\net6.0\PizzaMizza.Core.deps.json
+C:\Users\99455\Desktop\PizzaTask\PizzaMizza.Core\bin\Debug\net6.0\PizzaMizza.Core.dll
+C:\Users\99455\Desktop\PizzaTask\PizzaMizza.Core\bin\Debug\net6.0\PizzaMizza.Core.pdb
+C:\Users\99455\Desktop\PizzaTask\PizzaMizza.Core\obj\Debug\net6.0\PizzaMizza.Core.csproj.AssemblyReference.cache
+C:\Users\99455\Desktop\PizzaTask\PizzaMizza.Core\obj\Debug\net6.0\PizzaMizza.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99455\Desktop\PizzaTask\PizzaMizza.Core\obj\Debug\net6.0\PizzaMizza.Core.AssemblyInfoInputs.cache
+C:\Users\99455\Desktop\PizzaTask\PizzaMizza.Core\obj\Debug\net6.0\PizzaMizza.Core.AssemblyInfo.cs
+C:\Users\99455\Desktop\PizzaTask\PizzaMizza.Core\obj\Debug\net6.0\PizzaMizza.Core.csproj.CoreCompileInputs.cache
+C:\Users\99455\Desktop\PizzaTask\PizzaMizza.Core\obj\Debug\net6.0\PizzaMizza.Core.dll
+C:\Users\99455\Desktop\PizzaTask\PizzaMizza.Core\obj\Debug\net6.0\refint\PizzaMizza.Core.dll
+C:\Users\99455\Desktop\PizzaTask\PizzaMizza.Core\obj\Debug\net6.0\PizzaMizza.Core.pdb
+C:\Users\99455\Desktop\PizzaTask\PizzaMizza.Core\obj\Debug\net6.0\ref\PizzaMizza.Core.dll
